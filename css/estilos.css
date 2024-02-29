@@ -27,3 +27,12 @@ body
   font-size: 40px;
 
 }
+
+#footer 
+{
+  background: #8658c5;
+  text-align: center;
+  font-size: 70px;
+  padding: 0.5em;
+
+}
